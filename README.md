@@ -1,4 +1,4 @@
-# NLP on Crupto news
+# NLP on Crypto news
 ---
 
 This repository contains example iplementation of NLP using Python. Bitcoin and Ethereum news from newsapi.org is the source of text data which is accessed from the notebook through API.   
